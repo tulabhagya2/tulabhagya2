@@ -55,11 +55,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
