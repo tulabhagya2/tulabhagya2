@@ -59,6 +59,15 @@
 
 ## 📊 GitHub Stats
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tulabhagya2&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tulabhagya2&show_icons=true&count_private=true&theme=github_dark" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=tulabhagya2&theme=github-dark&hide_border=false" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulabhagya2&layout=compact&theme=github_dark"/>
 </p>
